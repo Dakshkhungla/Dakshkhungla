@@ -1,90 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Daksh Khungla  
 
-<!--
-**Dakshkhungla/Dakshkhungla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Passionate Full-Stack Developer** 🚀, eager to create impactful and scalable software solutions. With a strong foundation in **web development, cloud computing**, and **software engineering**, I aim to contribute meaningfully to the tech world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Daksh Khungla 👋
+![Developer Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## About Me
-I'm an innovative Software Developer and Cloud Enthusiast with a passion for full-stack development and cloud computing. With experience in over 6 freelance projects, I specialize in creating dynamic web applications and robust desktop software. My goal is to solve real-world problems and deliver high-quality results.
+## 🚀 Languages & Tools  
 
-## Skills
-### Programming Languages
-- **C++**
-- **C**
-- **Java**
-- **JavaScript**
-- **Python**
-- **PHP**
-- **VB.NET**
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, C, C++  
+- **Web Development**: React.js, HTML, CSS, Bootstrap  
+- **Backend Technologies**: Node.js, Express.js, Django  
+- **Databases**: MongoDB, MySQL, PostgreSQL, Redis  
+- **DevOps & Cloud**: AWS, Docker, Kubernetes, Jenkins  
 
-### Frameworks and Technologies
-- **ASP.NET**
-- **Django**
-- **Node.js**
-- **Docker**
-- **Kubernetes**
+---
 
-### Databases
-- **Oracle**
-- **MySQL**
-- **MongoDB**
-- **Firebase**
+## 🎯 Languages Used in My Projects  
 
-### Tools
-- **Git**
-- **Visual Studio**
-- **Eclipse**
-- **IntelliJ IDEA**
-- **Postman**
+![Daksh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkhungla&layout=compact&theme=default&hide_border=false)  
 
-## Experience
-### SDE Intern at Evansh Services
-*June 2024 - July 2024 | Gandhidham, India*
-- Led the creation of a dynamic web-based portal, managing a team of 4 developers.
-- Coordinated with stakeholders to ensure 100% on-time delivery and quality assurance.
-- Implemented security, performance, and usability enhancements, leading to a 30% increase in system efficiency.
 
-### Campus Leader at TechLearn.live
-*December 2020 - January 2021 | Adipur*
-- Organized and led over 5 events for students, fostering a positive culture.
-- Developed strategies to increase student engagement by 15%.
 
-## Projects
-### Payroll Management System
-- Developed a desktop application using **VB.NET** to automate salary management for 40+ employees.
-- Generated 10+ reports, significantly reducing manual processing time by 70%.
+---
 
-### Ganesh Tours and Travels
-- Created a dynamic web application using **ASP.NET**, **JavaScript**, and **Bootstrap**.
-- Integrated a payment gateway and Google authorization for secure transactions, resulting in a 25% increase in customer satisfaction.
+## 📊 GitHub Stats  
 
-## Education
-- **B.Tech in IT Engineering**  
-  Birla Vishvakarma Mahavidhyalay, Anand, India  
-  *September 2023 - Present*
+![Daksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dakshkhungla&theme=default&hide_border=false)  
 
-- **Diploma in Computer Engineering**  
-  Gujarat Technological University, Gandhidham, India  
-  *CGPA: 9.76 | November 2020 - August 2023*
+---
 
-## Portfolio
-- 🌐 Check out my portfolio: [dakshkhungla.netlify.com](https://dakshkhungla.netlify.com)
+## 🌐 Connect with Me  
 
-## Connect with Me
-- 📧 Email: [Dakshahir481@gmail.com](mailto:Dakshahir481@gmail.com)
-- 📱 Mobile: [+91 9512450366](tel:+919512450366)
-- 💼 LinkedIn: [linkedin.com/in/dakshkhungla](https://linkedin.com/in/dakshkhungla)
+- [**Portfolio**](https://dakshkhungla.netlify.app/)  
+- [**LinkedIn**](https://www.linkedin.com/in/dakshkhungla)  
+- [**Instagram**](https://www.instagram.com/dakshkhungla/)
+- [**Email**](mailto:dakshahir481@gmail.com)  
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
+
+### ✨ Let's Collaborate and Build Something Amazing!  
