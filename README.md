@@ -18,7 +18,7 @@ A **Passionate Full-Stack Developer** 🚀, eager to create impactful and scalab
 
 ## 🎯 Languages Used in My Projects  
 
-![Daksh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkhungla&layout=compact&theme=default&hide_border=false)  
+![Daksh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshkhungla&layout=compact&theme=default&hide_border=false)  
 
 
 
@@ -26,7 +26,7 @@ A **Passionate Full-Stack Developer** 🚀, eager to create impactful and scalab
 
 ## 📊 GitHub Stats  
 
-![Daksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dakshkhungla&theme=default&hide_border=false)  
+![Daksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dakshkhungla&theme=default&hide_border=false)  
 
 ---
 
