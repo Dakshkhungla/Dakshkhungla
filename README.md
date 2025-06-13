@@ -4,7 +4,7 @@ A **Passionate Full-Stack Developer** 🚀, eager to create impactful and scalab
 
 ---
 
-![Developer Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer Gif](https://preview.redd.it/banner-image-v0-f6o4dosean6f1.png?width=640&crop=smart&auto=webp&s=933c76e305c0ae632661e6d5632537160d566fd2)
 
 ## 🚀 Languages & Tools  
 
