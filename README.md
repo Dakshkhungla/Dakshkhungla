@@ -1,5 +1,5 @@
 <!--
-Daksh Khungla | Full-Stack Developer | Web Development | Cloud Computing | Software Engineering | React.js | Node.js | Django | AWS
+Daksh Khungla | Full-Stack Developer | Web Development | Cloud Computing | Software Engineering | React.js | Node.js | Django | AWS | dakshkhungla | Dakshkhungla
 -->
 
 Hi 👋, I'm Daksh Khungla
