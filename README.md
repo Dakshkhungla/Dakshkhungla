@@ -6,7 +6,7 @@ Daksh Khungla | Full-Stack Developer | Web Development | Cloud Computing | Softw
 </head>
 
 
-Hi 👋, I'm Daksh Khungla
+## Hi 👋, I'm Daksh Khungla
 
 A **Passionate Full-Stack Developer** 🚀, eager to create impactful and scalable software solutions. With a strong foundation in **web development, cloud computing**, and **software engineering**, I aim to contribute meaningfully to the tech world.
 
