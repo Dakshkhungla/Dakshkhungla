@@ -1,6 +1,10 @@
 <!--
 Daksh Khungla | Full-Stack Developer | Web Development | Cloud Computing | Software Engineering | React.js | Node.js | Django | AWS | dakshkhungla | Dakshkhungla
 -->
+<head>
+  <meta name="google-site-verification" content="FIRe-N3bKUcoSsmLxGIy8twEzgFiniu0Ub7jYKk_tpY" />
+</head>
+
 
 Hi 👋, I'm Daksh Khungla
 
